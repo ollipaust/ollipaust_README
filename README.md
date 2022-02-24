@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ollipaust
+- 👀 I’m interested in creative Frontend Development with React
+- 🌱 I’m currently learning Typescript and Remix Framework
+- 💞️ I’m looking to collaborate on creative user interfaces
