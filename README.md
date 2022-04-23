@@ -43,7 +43,7 @@ A multi-disciplinary guy, passionate about programming, design and a fan of stat
 ![WordPress](https://img.shields.io/badge/-Wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=fff)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8ebb?style=for-the-badge&logo=yarn&logoColor=fff)
 
-### ⚡ Say Hello
+### ⚡ Connect
 
 <p>
   <a href="mailto:ollipaust@gmail.com">
