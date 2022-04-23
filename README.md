@@ -3,6 +3,8 @@
 This is Olli (he/him), 29y, from Berlin and a Junior Web (Frontend) Developer at [Statista](https://statisa.com) - the World's Leading Statistics Portal.
 <br/>I'm a multi-disciplinary and passionate Doer who loves anything web, coding and design.
 
+...and a good coffee, too ☕️ 
+
 ---
 
 ### 💡 Current Interests
