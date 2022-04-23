@@ -10,7 +10,7 @@ I'm a Junior Web (Frontend) Developer at [Statista](https://statisa.com) - the W
 ![ReactJS](https://img.shields.io/badge/-ReactJS-20232a?style=for-the-badge&logo=react&logoColor=00c8ff)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000?style=for-the-badge&logo=gatsby&logoColor=663399)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
-![Three](https://img.shields.io/badge/-Three.js-3178C6?style=for-the-badge&logo=three.js&logoColor=fff)
+![Three.js](https://img.shields.io/badge/-Three.js-fff?style=for-the-badge&logo=three.js&logoColor=049EF4)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 
 ### ⚙️ Other techs & tools
