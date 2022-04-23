@@ -5,14 +5,14 @@ A multi-disciplinary guy, passionate about programming, design and a fan of stat
 
 ---
 
-### 🔭 Current Interests
+### 💡 Current Interests
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-20232a?style=for-the-badge&logo=react&logoColor=00c8ff)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000?style=for-the-badge&logo=gatsby&logoColor=663399)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 
-### ⚡ Other techs & tools
+### ⚙️ Other techs & tools
 
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052cc?style=for-the-badge&logo=bitbucket&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=fff)
@@ -43,7 +43,7 @@ A multi-disciplinary guy, passionate about programming, design and a fan of stat
 ![WordPress](https://img.shields.io/badge/-Wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=fff)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8ebb?style=for-the-badge&logo=yarn&logoColor=fff)
 
-### 📫 Say Hello
+### ⚡ Say Hello
 
 <p>
   <a href="mailto:ollipaust@gmail.com">
