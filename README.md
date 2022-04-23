@@ -9,7 +9,7 @@ A methodical guy, passionate about programming and design and a fan of state-of-
 ### 🔭 Current Interests
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-20232a?style=for-the-badge&logo=react&logoColor=00c8ff)
-![Gatsby.js](https://img.shields.io/badge/-Gatsby.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
+![Gatsby](https://img.shields.io/badge/-Gatsby.js-000?style=for-the-badge&logo=next.js&logoColor=663399)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
 ![Remix.run](https://img.shields.io/badge/-Remix.run-000?style=for-the-badge&logo=next.js&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
@@ -42,6 +42,7 @@ A methodical guy, passionate about programming and design and a fan of state-of-
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
+![WordPress](https://img.shields.io/badge/-Wordpress-2C8ebb?style=for-the-badge&logo=yarn&logoColor=21759b)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8ebb?style=for-the-badge&logo=yarn&logoColor=fff)
 
 ### 📫 How to reach me
