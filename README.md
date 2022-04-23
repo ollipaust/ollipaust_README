@@ -1,7 +1,6 @@
 ### 👋 Hi, I'm Olli 
 
-I'm a Junior Web (Frontend) Developer at [Statista](https://statisa.com) - the World's Leading Statistics Portal
-A multi-disciplinary guy, passionate about programming, design and a fan of state-of-the-art technologies.
+I'm a Junior Web (Frontend) Developer at [Statista](https://statisa.com) - the World's Leading Statistics Portal  A multi-disciplinary guy, passionate about programming, design and a fan of state-of-the-art technologies.
 
 ---
 
