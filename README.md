@@ -52,11 +52,11 @@ This is Olli (he/him), 29y, from Berlin and a Junior Web (Frontend) Developer at
   <a href="mailto:ollipaust@gmail.com">
     <img src="https://img.shields.io/badge/Email-ollipaust%40gmail.com-d14836?logo=gmail&style=for-the-badge" alt="Email">
   </a>
-  &nbsp;&nbsp;
+  <br/>
   <a href="https://github.com/diegomais">
     <img src="https://img.shields.io/badge/GitHub-ollipaust-181717?logo=github&style=for-the-badge" alt="GitHub">
   </a>
-  &nbsp;&nbsp;
+  <br/>
   <a href="https://www.linkedin.com/in/ollipaust">
     <img src="https://img.shields.io/badge/LinkedIn-ollipaust-0077b5?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
