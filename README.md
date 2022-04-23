@@ -9,7 +9,7 @@ A methodical guy, passionate about programming and design and a fan of state-of-
 ### 🔭 Current Interests
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-20232a?style=for-the-badge&logo=react&logoColor=00c8ff)
-![Gatsby](https://img.shields.io/badge/-Gatsby.js-000?style=for-the-badge&logo=next.js&logoColor=663399)
+![Gatsby](https://img.shields.io/badge/-Gatsby-000?style=for-the-badge&logo=gatsby&logoColor=663399)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
 ![Remix.run](https://img.shields.io/badge/-Remix.run-000?style=for-the-badge&logo=next.js&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
