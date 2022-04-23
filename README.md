@@ -4,7 +4,7 @@
 
 I'm a Junior Web (Frontend) Developer at [Statista](https://statisa.com) - the World's Leading Statistics Portal
 
-A methodical guy, passionate about programming and design and a fan of state-of-the-art technologies.
+A multi-disciplinary guy, passionate about programming, design and a fan of state-of-the-art technologies.
 
 ### 🔭 Current Interests
 
@@ -44,7 +44,7 @@ A methodical guy, passionate about programming and design and a fan of state-of-
 ![WordPress](https://img.shields.io/badge/-Wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=fff)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8ebb?style=for-the-badge&logo=yarn&logoColor=fff)
 
-### 📫 How to reach me
+### 📫 Say Hello
 
 <p>
   <a href="mailto:ollipaust@gmail.com">
