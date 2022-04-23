@@ -1,7 +1,7 @@
-### 👋 Hi, I'm Olli 
+### 👋 Nice to meet you
 
-I'm a Junior Web (Frontend) Developer at [Statista](https://statisa.com) - the World's Leading Statistics Portal
-<br/>A multi-disciplinary guy, passionate about programming, design and a fan of state-of-the-art technologies.
+This is Olli (he/him), 29y, from Berlin and a Junior Web (Frontend) Developer at [Statista](https://statisa.com) - the World's Leading Statistics Portal.
+<br/>I'm a multi-disciplinary and passionate Doer who loves anything web, coding and design.
 
 ---
 
