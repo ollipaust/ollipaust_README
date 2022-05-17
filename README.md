@@ -1,6 +1,6 @@
 ### 👋 Nice to meet you
 
-This is Olli (he/him), 29y, from Berlin and a Junior Web (Frontend) Developer at [Statista](https://statisa.com) - the World's Leading Statistics Portal.
+This is Olli (he/him), 29y, from Berlin and a Junior Web (Frontend) Developer at [Statista](https://statisa.com).
 <br/>I'm a multi-disciplinary and passionate creative who loves anything web, coding and design...
 
 ...and a good coffee, too ☕️ 
