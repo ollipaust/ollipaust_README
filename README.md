@@ -1,6 +1,6 @@
 ### 👋 Nice to meet you
 
-This is Olli, 30, from Berlin and a Web Developer.
+This is Olli, 31 years, from Berlin and a Web Developer.
 <br/>I'm a multi-disciplinary and passionate creative who loves anything web, coding and design...
 
 ...and a good coffee, too ☕️ 
@@ -10,10 +10,9 @@ This is Olli, 30, from Berlin and a Web Developer.
 ### 💡 Current Interests
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-20232a?style=for-the-badge&logo=react&logoColor=00c8ff)
-![Three.js](https://img.shields.io/badge/-Three.js-000?style=for-the-badge&logo=three.js&logoColor=049EF4)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 
-### ⚙️ Other techs & tools
+### ⚙️ Expert in
 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=fff)
