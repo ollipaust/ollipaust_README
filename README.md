@@ -14,8 +14,8 @@ This is Olli, 31 years, from Berlin and a Web Developer.
 
 ### ⚙️ Expert in
 
-![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=181818)
 
 
